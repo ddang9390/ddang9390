@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello, I am Daniel Dang 👋
+
+When I was a student at Rochester Institute of Technology, I took on the Individualized Study program in hopes of being able to take on classes from the software engineering and computer science majors. It has always been my dream to create the games that I have envisioned in my head when I was growing up. To accomplish such a dream, I took on classes meant for other majors to learn common methodologies for software development and to learn about coding practices and algorithms to create maintainable and optimized code.
+
+I have worked as a QA tester for a variety of web applications to gain knowledge of testing strategies and the agile methodology. I am now currently expanding my skillset to learn more about backend development and CI/CD to further enhancement my understanding of software development.
 
 <!--
 **ddang9390/ddang9390** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
